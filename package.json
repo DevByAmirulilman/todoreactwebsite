@@ -1,8 +1,6 @@
 {
   "name": "mytodos",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://DevByAmirulilman.github.io/todoreactwebsite.git",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@mui/material": "^5.4.3",
