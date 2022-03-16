@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.141ebf11.js",
-    "static/js/787.8ccc3fdb.chunk.js": "/static/js/787.8ccc3fdb.chunk.js",
-    "static/media/dumpstericon.svg": "/static/media/dumpstericon.aeb63b8ecac921274eed5f26a7a7349d.svg",
-    "index.html": "/index.html",
-    "main.141ebf11.js.map": "/static/js/main.141ebf11.js.map",
-    "787.8ccc3fdb.chunk.js.map": "/static/js/787.8ccc3fdb.chunk.js.map"
+    "main.js": "/todoreactwebsite/static/js/main.fe4f5428.js",
+    "static/js/787.8ccc3fdb.chunk.js": "/todoreactwebsite/static/js/787.8ccc3fdb.chunk.js",
+    "static/media/dumpstericon.svg": "/todoreactwebsite/static/media/dumpstericon.aeb63b8ecac921274eed5f26a7a7349d.svg",
+    "index.html": "/todoreactwebsite/index.html",
+    "main.fe4f5428.js.map": "/todoreactwebsite/static/js/main.fe4f5428.js.map",
+    "787.8ccc3fdb.chunk.js.map": "/todoreactwebsite/static/js/787.8ccc3fdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.141ebf11.js"
+    "static/js/main.fe4f5428.js"
   ]
 }
